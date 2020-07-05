@@ -1,4 +1,8 @@
 desde la pc local
 
 
+
 mis cambios en el mismo archivo desde enlocal
+
+Cambios que se están realizando editando el mismo archivo
+
